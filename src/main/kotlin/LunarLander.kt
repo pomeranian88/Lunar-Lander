@@ -41,4 +41,6 @@ fun main() {
     }
 }
 
-// Reflection: No exact 
+// Reflection: No particular issues I ran into, just often forgetting &
+//             remembering syntax for stuff like -= and returns. I think
+//             I spent like 45 minutes coding this project.
