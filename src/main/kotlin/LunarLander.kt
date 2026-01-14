@@ -1,5 +1,7 @@
 /*
  * Author: Zev Thompson
+ *
+ * Collaboration Statement: Worked on/finished it in the same room as Ian, discussed code but didn't ever look at each others' code
  */
 
 import java.util.Scanner
